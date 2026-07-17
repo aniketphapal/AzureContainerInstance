@@ -1,2 +1,0 @@
-# AzureContainerInstance
-Azure project
